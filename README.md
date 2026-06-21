@@ -2,11 +2,11 @@
 
 **AI Business Process Analyst · Scrum Master · Product Owner** — I bridge process engineering, agile delivery, and applied AI/ML.
 
-Currently a Delivery Manager & Principal Consultant at **Gateway AI Advisory**, where I own backlog priorities, acceptance criteria, and deliverable quality across 9 concurrent client AI workflow automation engagements. 8+ years across federal DoD and commercial environments as a Scrum Master, IT Acquisition Business Analyst, and Technical Project Manager.
+Currently a Delivery Manager & Principal Consultant at **Gateway AI Advisory**, where I own backlog priorities, acceptance criteria, and deliverable quality across 9 concurrent client AI workflow automation engagements. 8+ years across federal DoD and commercial environments as a Scrum Master, Process Analyst, and Technical Project Manager.
 
 - 🎖️ U.S. Army Veteran · Active DoD Secret Clearance (TS/SCI Eligible)
 - 📜 CSM · CSPO · AI-Empowered SAFe Agilist
-- 📍 Richmond, VA — open to remote, San Juan PR, Berkeley MO, San Antonio/Dallas TX
+- 📍 Richmond, VA — open to remote, Puerto Rico, Florida, Texas, New Mexico
 - 🔗 [LinkedIn](https://www.linkedin.com/in/robert-son-0b33b3bb)
 
 ---
