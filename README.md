@@ -18,7 +18,7 @@ I pair process engineering fundamentals (BPMN, workflow redesign, RACI) with han
 | Project | What it does |
 |---|---|
 | 🤖 [**HR-Policy-QA-Bot**](https://github.com/robertciceroson/HR-Policy-QA-Bot) | RAG-powered HR policy chatbot — LangChain, FAISS, FastEmbed, and Groq (Llama 3.3 70B), served via Streamlit. Grounded, source-cited answers; honest fallback when it doesn't know. |
-| 📊 [**process-engineering-portfolio**](https://github.com/robertciceroson/process-engineering-portfolio) | 16 published BPMN Swimlane/flowchart diagrams from federal DoD and commercial engagements (Army CID, Pentagon agencies, client process redesigns). |
+| 📊 [**process-engineering-portfolio**](https://github.com/robertciceroson/process-engineering-portfolio) | 17 published BPMN swimlane/flowchart/VSM diagrams from federal DoD and commercial engagements (Army CID, Pentagon agencies, client process redesigns). |
 | 🏠 [**Airbnb-Price-Prediction**](https://github.com/robertciceroson/Airbnb-Price-Prediction) | NYC Airbnb price prediction — regression modeling. |
 | ❤️ [**Heart-Disease-Risk-Prediction**](https://github.com/robertciceroson/Heart-Disease-Risk-Prediction) | Classification model for heart disease risk. |
 | 🔢 [**Digit-Recognition-App**](https://github.com/robertciceroson/Digit-Recognition-App) | CNN-based digit recognition, 98% accuracy. |
