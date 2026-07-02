@@ -28,15 +28,17 @@ I pair process engineering fundamentals (BPMN, workflow redesign, RACI) with han
 
 ## Background
 
-- **🤖 Delivery Manager / Senior AI Business Analyst, Gateway AI Advisory — 9 concurrent client AI workflow automation engagements; RAG pipelines, CBA/ROI reporting, requirements elicitation
-- **Scrum Master / TPM / Test Lead**, Zantech IT Services — Army CID modernization (ALERTS, DRS, ACIS), ScienceLogic helpdesk supporting 10,000–15,000 global users
-- **🔍 Business Analyst, Skybridge Aviation — Stakeholder interviews across 17 departments; AS-IS process engineering package (BPMN diagrams + SOPs) delivered as primary engagement deliverable
-- **📋 Management Analyst / Business Analyst, Copper River Technologies — Validated 50+ enterprise business process deliverables against traceability matrices; BPMN process diagrams for Pentagon/OUSD and WHS engagements
-- **IT Acquisition Business Analyst**, Protek Consulting — Fourth Estate Manpower Tracking System (FMTS) modernization
-- **QA Analyst**, Deloitte — Selenium/JavaScript test automation
-- **Recovery Care Coordinator**, T.A. Consulting/GDIT — USMC Wounded Warrior program, 30+ concurrent cases
-- M.A. Cross-Cultural Communication & International Relations, Newcastle University
-- B.S. Business Administration, VCU
+## Background
+
+- 🤖 **Delivery Manager / Senior AI Business Analyst**, Gateway AI Advisory — 9 concurrent client AI workflow automation engagements; RAG pipelines, CBA/ROI reporting, requirements elicitation
+- 🪖 **Scrum Master / TPM / Test Lead**, Zantech IT Services — Army CID modernization (ALERTS, DRS, ACIS); ScienceLogic helpdesk supporting 10,000–15,000 global users
+- 🔍 **Business Analyst**, Skybridge Aviation — Stakeholder interviews across 17 departments; AS-IS process engineering package (BPMN diagrams + SOPs) delivered as primary engagement deliverable
+- 📋 **Management Analyst / Business Analyst**, Copper River Technologies — Validated 50+ enterprise business process deliverables against traceability matrices; BPMN process diagrams for Pentagon/OUSD and WHS engagements
+- 🏛️ **IT Acquisition Business Analyst**, Protek Consulting — Fourth Estate Manpower Tracking System (FMTS) modernization
+- 🧪 **QA Analyst**, Deloitte — Selenium/JavaScript test automation
+- 🎖️ **Recovery Care Coordinator**, T.A. Consulting/GDIT — USMC Wounded Warrior program, 30+ concurrent cases
+- 🎓 M.A. Cross-Cultural Communication & International Relations, Newcastle University
+- 🎓 B.S. Business Administration, VCU
 
 ---
 
