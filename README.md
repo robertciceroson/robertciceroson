@@ -19,10 +19,12 @@ I pair process engineering fundamentals (BPMN, workflow redesign, RACI) with han
 |---|---|
 | 🤖 [**HR-Policy-QA-Bot**](https://github.com/robertciceroson/HR-Policy-QA-Bot) | RAG-powered HR policy chatbot — LangChain, FAISS, FastEmbed, and Groq (Llama 3.3 70B), served via Streamlit. Grounded, source-cited answers; honest fallback when it doesn't know. |
 | 📊 [**process-engineering-portfolio**](https://github.com/robertciceroson/process-engineering-portfolio) | 19 published BPMN swimlane/flowchart/VSM diagrams from federal DoD and commercial engagements (Army CID, Pentagon agencies, client process redesigns). |
-| 🏠 [**Airbnb-Price-Prediction**](https://github.com/robertciceroson/Airbnb-Price-Prediction) | NYC Airbnb price prediction — regression modeling. |
-| ❤️ [**Heart-Disease-Risk-Prediction**](https://github.com/robertciceroson/Heart-Disease-Risk-Prediction) | Classification model for heart disease risk. |
-| 🔢 [**Digit-Recognition-App**](https://github.com/robertciceroson/Digit-Recognition-App) | CNN-based digit recognition, 98% accuracy. |
-| 🎬 [**NLP-Movie-Review-Sentiment-Classifier**](https://github.com/robertciceroson/NLP-Movie-Review-Sentiment-Classifier) | NLP sentiment classification on movie reviews. |
+| 🏠 [**Airbnb-Price-Prediction**](https://github.com/robertciceroson/Airbnb-Price-Prediction) | NYC Airbnb price prediction — end-to-end ML pipeline (XGBoost/Random Forest + EDA + interactive prediction interface, ~49K listings. |
+| ❤️ [**Heart-Disease-Risk-Prediction**](https://github.com/robertciceroson/Heart-Disease-Risk-Prediction) | Binary classification pipeline — XGBoost/LightGBM, ~0.92+ ROC-AUC (Cleveland Heart Disease dataset, 303 patients). |
+| 🔢 [**Digit-Recognition-App**](https://github.com/robertciceroson/Digit-Recognition-App) | CNN-based digit recognition — NumPy MLP from scratch + PyTorch MLP/CNN, ~98–99% accuracy on MNIST + interactive drawing widget. |
+| 🎬 [**NLP-Movie-Review-Sentiment-Classifier**](https://github.com/robertciceroson/NLP-Movie-Review-Sentiment-Classifier) | Full NLP pipeline — TF-IDF/Word2Vec/GloVe + fine-tuned DistilBERT, ~91% accuracy, 0.97 ROC-AUC (IMDB dataset). |
+🧪 selenium-eligibility-automation41-case data-driven test suite — Selenium WebDriver + GitHub Actions CI/CD; automated eligibility validation across multiple test scenarios.💰
+AI-workflow-ROI-analysisCost-benefit analysis and ROI model for AI workflow automation — Excel-based CBA calculator with before/after metrics, payback period, and 3-year ROI projection.📊 Executive Weekly Briefing DashboardInteractive HTML executive dashboard — filter bar, badge filtering, collapsible sections, live item count. Live demo
 
 ---
 
