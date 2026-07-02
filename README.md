@@ -23,9 +23,9 @@ I pair process engineering fundamentals (BPMN, workflow redesign, RACI) with han
 | ❤️ [**Heart-Disease-Risk-Prediction**](https://github.com/robertciceroson/Heart-Disease-Risk-Prediction) | Binary classification pipeline — XGBoost/LightGBM, ~0.92+ ROC-AUC (Cleveland Heart Disease dataset, 303 patients). |
 | 🔢 [**Digit-Recognition-App**](https://github.com/robertciceroson/Digit-Recognition-App) | CNN-based digit recognition — NumPy MLP from scratch + PyTorch MLP/CNN, ~98–99% accuracy on MNIST + interactive drawing widget. |
 | 🎬 [**NLP-Movie-Review-Sentiment-Classifier**](https://github.com/robertciceroson/NLP-Movie-Review-Sentiment-Classifier) | Full NLP pipeline — TF-IDF/Word2Vec/GloVe + fine-tuned DistilBERT, ~91% accuracy, 0.97 ROC-AUC (IMDB dataset). |
-🧪 selenium-eligibility-automation41-case data-driven test suite — Selenium WebDriver + GitHub Actions CI/CD; automated eligibility validation across multiple test scenarios.
-💰AI-workflow-ROI-analysisCost-benefit analysis and ROI model for AI workflow automation — Excel-based CBA calculator with before/after metrics, payback period, and 3-year ROI projection.
-📊 Executive Weekly Briefing DashboardInteractive HTML executive dashboard — filter bar, badge filtering, collapsible sections, live item count. Live demo
+| 🧪 [selenium-eligibility-automation](https://github.com/robertciceroson/selenium-eligibility-automation) | 41-case data-driven test suite — Selenium WebDriver + GitHub Actions CI/CD; automated eligibility validation across multiple test scenarios. |
+| 💰 [AI-workflow-ROI-analysis](https://github.com/robertciceroson/AI-workflow-ROI-analysis) | Cost-benefit analysis and ROI model for AI workflow automation — Excel-based CBA calculator with before/after metrics, payback period, and 3-year ROI projection. |
+| 📊 [Executive Weekly Briefing Dashboard](https://robertciceroson.github.io/process-engineering-portfolio/executive-dashboard/) | Interactive HTML executive dashboard — filter bar, badge filtering, collapsible sections, live item count. [Live demo](https://robertciceroson.github.io/process-engineering-portfolio/executive-dashboard/) |
 
 ---
 
