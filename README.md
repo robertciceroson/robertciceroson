@@ -6,7 +6,7 @@ Currently a Delivery Manager & Principal Consultant at **Gateway AI Advisory**, 
 
 - 🎖️ U.S. Army Veteran · Active DoD Secret Clearance (TS/SCI Eligible)
 - 📜 CSM · CSPO · AI-Empowered SAFe Agilist
-- 📍 Richmond, VA — open to remote, Puerto Rico, Florida, Texas, New Mexico
+- 📍 Richmond, VA — open to remote, North Carolina, Puerto Rico, Florida, Texas, New Mexico.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/robert-son-0b33b3bb)
 
 ---
