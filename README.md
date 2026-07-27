@@ -18,6 +18,7 @@ I pair process engineering fundamentals (BPMN, workflow redesign, RACI) with han
 | Project | What it does |
 |---|---|
 | 📊 [**process-engineering-portfolio**](https://github.com/robertciceroson/process-engineering-portfolio) | 19 published BPMN swimlane/flowchart/VSM diagrams from federal DoD and commercial engagements (Army CID, Pentagon agencies, client process redesigns). |
+| 💳 [interpretable-credit-risk-model](https://github.com/robertciceroson/interpretable-credit-risk-model) | Credit scoring pipeline deliberately stress-tested — planted data-leakage feature caught pre-deployment (0.99→0.68 AUC after removal), fairness audit surfacing a 3.7x disparate impact via an unused proxy feature, SHAP/Kernel SHAP/LIME implemented from scratch with verified additivity. |
 | 📊 [**weekly-leadership-digest-automation**](https://github.com/robertciceroson/weekly-leadership-digest-automation) | Make.com multi-source automation — Notion + Slack + Calendar → Gemini AI synthesis → HTML executive digest. Replaces 3 hrs/week of manual Monday reporting. [Blueprint](https://github.com/robertciceroson/weekly-leadership-digest-automation/blob/main/Executive-Report-Automation-Updated.json) · [VSM](https://github.com/robertciceroson/process-engineering-portfolio/blob/main/executive-report-automation-vsm.pdf) · [Live demo](https://robertciceroson.github.io/process-engineering-portfolio/executive-dashboard/) |
 | 💰 [**AI-workflow-ROI-analysis**](https://github.com/robertciceroson/AI-workflow-ROI-analysis) | Cost-benefit analysis and ROI model for AI workflow automation — Excel-based CBA calculator with before/after metrics, payback period, and 3-year ROI projection. [Live demo](https://docs.google.com/spreadsheets/d/1EVz2vaeOSHu5mjn9EpmmQTRi55DBbRtIgxBc3a2PN_I/edit?gid=2133443925#gid=2133443925) |
 | 🤖 [**HR-Policy-QA-Bot**](https://github.com/robertciceroson/HR-Policy-QA-Bot) | RAG-powered HR policy chatbot — LangChain, FAISS, FastEmbed, and Groq (Llama 3.3 70B), served via Streamlit. Grounded, source-cited answers; honest fallback when it doesn't know. [Live demo](https://hr-policy-app-bot-mfgzhuyzqgkkdglxg4mnj2.streamlit.app) |
@@ -33,7 +34,7 @@ I pair process engineering fundamentals (BPMN, workflow redesign, RACI) with han
 
 ## Background
 
-- 🤖 **Project Manager / AI Business Analyst / Prompt Engineer**, Gateway AI Advisory — 9 concurrent client AI workflow automation engagements; RAG pipelines, CBA/ROI reporting, requirements elicitation
+- 🤖 **AI Business Analyst / Prompt Engineer / Proposal Coordinator**, Gateway AI Advisory — 9 concurrent client AI workflow automation engagements; RAG pipelines, CBA/ROI reporting, requirements elicitation
 - 🪖 **Scrum Master / TPM / Test Lead**, Zantech IT Services — Army CID modernization (ALERTS, DRS, ACIS); ScienceLogic helpdesk supporting 10,000–15,000 global users
 - 🔍 **Business Analyst**, Skybridge Aviation — Stakeholder interviews across 17 departments; AS-IS process engineering package (BPMN diagrams + SOPs) delivered as primary engagement deliverable
 - 📋 **Management Analyst / Business Analyst**, Copper River Technologies — Validated 50+ enterprise business process deliverables against traceability matrices; BPMN process diagrams for Pentagon/OUSD and WHS engagements
