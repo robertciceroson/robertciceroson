@@ -1,6 +1,6 @@
 # Hi, I'm Robert (Bob) Son 👋
 
-**Product Manager (AI Business Analyst / Prompt Engineer) · Scrum Master** — I bridge process engineering, agile delivery, and applied AI/ML.
+**Product Owner (AI Solutions / AI Business Analyst / Prompt Engineer) · Scrum Master** — I bridge process engineering, agile delivery, and applied AI/ML.
 
 Currently a Delivery Manager & Principal Consultant at **Gateway AI Advisory**, where I own backlog priorities, acceptance criteria, and deliverable quality across 9 concurrent client AI workflow automation engagements. 8+ years across federal DoD and commercial environments as a Scrum Master, Process Analyst, and Technical Project Manager.
 
@@ -34,7 +34,7 @@ I pair process engineering fundamentals (BPMN, workflow redesign, RACI) with han
 
 ## Background
 
-- 🤖 **Product Manager (AI Business Analyst / Prompt Engineer) / Proposal Coordinator**, Gateway AI Advisory — 9 concurrent client AI workflow automation engagements; RAG pipelines, CBA/ROI reporting, requirements elicitation
+- 🤖 **Product Owner (AI Solutions / AI Business Analyst / Prompt Engineer)**, Gateway AI Advisory — 9 concurrent client AI workflow automation engagements; RAG pipelines, CBA/ROI reporting, requirements elicitation
 - 🪖 **Project / Product Manager**, Zantech IT Services — Army CID modernization (ALERTS, DRS, ACIS); ScienceLogic helpdesk supporting 10,000–15,000 global users
 - 🔍 **Business Analyst**, Skybridge Aviation — Stakeholder interviews across 17 departments; AS-IS process engineering package (BPMN diagrams + SOPs) delivered as primary engagement deliverable
 - 📋 **Management Analyst / Business Analyst**, Copper River Technologies — Validated 50+ enterprise business process deliverables against traceability matrices; BPMN process diagrams for Pentagon/OUSD and WHS engagements
