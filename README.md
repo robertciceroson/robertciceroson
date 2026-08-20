@@ -1,6 +1,6 @@
 # Hi, I'm Robert (Bob) Son 👋
 
-**Product Owner (AI Solutions / AI Business Analyst / Prompt Engineer) · Scrum Master** — I bridge process engineering, agile delivery, and applied AI/ML.
+**Product Owner (AI Solutions / Prompt Engineer) · AI Business Analyst · Scrum Master** — I bridge process engineering, agile delivery, and applied AI/ML.
 
 Currently a Product Owner at **Gateway AI Advisory**, where I own backlog priorities, acceptance criteria, and deliverable quality across 9 concurrent client AI workflow automation engagements. 8+ years across federal DoD and commercial environments as a Scrum Master, Process Analyst, and Technical Project Manager.
 
