@@ -6,6 +6,7 @@ Currently a Product Owner at **Gateway AI Advisory**, where I own backlog priori
 
 - 🎖️ U.S. Army Veteran · Active DoD Secret Clearance (TS/SCI Eligible)
 - 📜 CSM · CSPO · AI-Empowered SAFe Agilist
+- 🔐 Hands-on IAM/security governance — RBAC design, joiner-mover-leaver
 - 📍 Richmond, VA — open to remote, North Carolina, Puerto Rico, Florida, Texas, New Mexico.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/robert-son-0b33b3bb)
 
