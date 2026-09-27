@@ -47,7 +47,7 @@ I pair process engineering fundamentals (BPMN, workflow redesign, RACI) with han
 - 🧪 **IT QA Analyst**, Deloitte — Selenium/JavaScript test automation
 - 🎖️ **Recovery Care Coordinator**, T.A. Consulting/GDIT — USMC Wounded Warrior program, 30+ concurrent cases
 - 🎓 M.A. Cross-Cultural Communication & International Relations, Newcastle University
-- 🎓 B.S. Business Administration, VCU
+- 🎓 B.S. Economics, VCU
 
 ---
 
